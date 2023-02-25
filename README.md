@@ -9,7 +9,7 @@
 
   <img src="https://skillicons.dev/icons?i=html,css,javascript,jquery,nodejs,express,react,sqlite,bootstrap&theme=dark" /> <br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ps,ai,vercel&theme=dark" />
-  ### I planning to study...
+  ### Im planning to study...
   <img src="https://skillicons.dev/icons?i=redux,mongodb,sass&theme=dark" />
   
 </div>
