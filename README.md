@@ -2,7 +2,7 @@
 <div align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20visit!&fontSize=90" />
  
-  [Portfolio <img height="24" width="24" src="https://user-images.githubusercontent.com/112890661/221130257-52590209-e2de-4ffa-867b-7bc75e091e2d.svg">](https://portfolio-kms.vercel.app/) &nbsp;&nbsp; | &nbsp;&nbsp; [Velog <img height="20" width="20" src="https://cdn.simpleicons.org/velog/20C997" />](https://velog.io/@chunjaeilu) &nbsp;&nbsp; | &nbsp;&nbsp; [Github <img height="20" width="20" src="https://cdn.simpleicons.org/github/181717" />](https://github.com/chunjaeilu)
+  [Portfolio <img height="24" width="24" src="https://user-images.githubusercontent.com/112890661/221400040-cf5ecd1b-e5fb-4052-9c97-3f573830da6c.svg">](https://portfolio-kms.vercel.app/) &nbsp;&nbsp; | &nbsp;&nbsp; [Velog <img height="20" width="20" src="https://cdn.simpleicons.org/velog/20C997" />](https://velog.io/@chunjaeilu) &nbsp;&nbsp; | &nbsp;&nbsp; [Github <img height="20" width="20" src="https://cdn.simpleicons.org/github/181717" />](https://github.com/chunjaeilu)
 
   ## SKILLS & TOOLS
 
