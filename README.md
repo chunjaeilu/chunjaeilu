@@ -1,6 +1,4 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchunjaeilu%2Fhit-counter&count_bg=%23FAE25F&title_bg=%23605E5E&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-
-
 <div align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20visit!&fontSize=90" />
  
